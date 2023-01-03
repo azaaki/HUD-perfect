@@ -4,8 +4,8 @@ Paste this in your SERVER.cfg :
  ensure hud_perfect / start hud_perfect
  
  And modif this HUD/UI with the FOLDER htlm
- 
-   ⚠️ DON'T TOUCH THE client.lua/fxmanifest.lua/server.lua ⚠️
+    
+    ⚠️ DON'T TOUCH THE client.lua/fxmanifest.lua/server.lua ⚠️
    
 [FR] Comment l'installer ?
 
